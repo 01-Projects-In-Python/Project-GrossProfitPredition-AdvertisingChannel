@@ -1,1 +1,1 @@
-# Project-GrossProfitPredition-AdvertisingChannel
+The objective of this project was to develop a predictive model for gross profit based on advertising channels. The approach included utilizing Random Forest for feature selection, implementing Linear Regression Models, Multiple Linear Regression Models, and conducting a comprehensive analysis of the interactions between variables.
